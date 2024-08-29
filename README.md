@@ -8,11 +8,13 @@
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-cx-01&label=Profile%20views&color=0e75b6&style=flat" alt="deep-cx-01" /> </p>
 
-- 👨‍💻 I’m currently learning Python Framework **Django.**
+- 👨‍💻 Currently learning Python Framework **Django.**
 
-- 👨‍💻 Also learning the Principles and Concepts of **Data Science.**
+- 👨‍💻 Learning the Principles and Concepts of **Data Science.**
 
-- 📍 How to reach me **deepsethi00090@gmail.com**
+-  📧 **deepsethi00090@gmail.com**
+
+- 📞 **+91 8168920736**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
