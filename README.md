@@ -1,6 +1,6 @@
 
 
-![logo](https://github.com/Deep-cx-01/Deep-cx-01/blob/main/my_logo.jpg)
+![logo](https://github.com/Deep-cx-01/Deep-cx-01/blob/main/logo.gif)
 
 <h1 align="center">Hi 👋, I'm Deep</h1>
 <h3 align="center">A passionate Programmer and Data Science Enthusiast.</h3>
