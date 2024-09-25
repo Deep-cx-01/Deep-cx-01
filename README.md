@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-cx-01&label=Profile%20views&color=0e75b6&style=flat" alt="deep-cx-01" /> </p>
 
-- 👨‍💻 Currently learning Python Framework **Django.**
+- 👨‍💻 Currently  off to learn Python Framework **Django.**
 
 - 👨‍💻 Learning the Principles and Concepts of **Data Science.**
 
@@ -16,12 +16,15 @@
 
 - 📞 **+91 8168920736**
 
-<h3 align="left">Connect with me:</h3>
+- <a href="https://linkedin.com/in/deep." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep." height="30" width="40" /></a>
+
+<h3 align="left">My CodeLine:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deep." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep." height="30" width="40" /></a>
-<a href="https://instagram.com/_deep_sethi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_deep_sethi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codecaffx01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codecaffx01" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/codecaffx0q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codecaffx0q" height="30" width="40" /></a>
+
+<a href="https://codolio.com/profile/codecaffx01" target="_blank">
+    <img align="center" src="https://codolio.com/codolio_assets/codolio.svg" alt="Codolio" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
