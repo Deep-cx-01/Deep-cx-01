@@ -15,8 +15,9 @@
 -  📧 **deepsethi00090@gmail.com**
 
 - 📞 **+91 8168920736**
-
-- <a href="https://linkedin.com/in/deep." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep." height="30" width="40" /></a>
+- <a href="https://linkedin.com/in/deep." target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep." height="40" width="50" style="vertical-align: super;" />
+</a>
 
 <h3 align="left">My CodeLine:</h3>
 <p align="left">
