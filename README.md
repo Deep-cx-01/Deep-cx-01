@@ -19,8 +19,9 @@
 
 <table>
   <tr>
+     <td>📧 <strong>er.deep.work@gmail.com@gmail.com</strong></td>
     <td>📧 <strong>deepsethi00090@gmail.com</strong></td>
-    <td>📧 <strong>eyecode01@gmail.com</strong></td>
+   
   </tr>
   <tr>
     <td>📞 <strong>+91 8168920736</strong></td>
