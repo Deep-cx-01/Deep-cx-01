@@ -1,19 +1,19 @@
 
 <h1 align="center">Hey👋🏻, I'm Deep</h1>
-<h3 align="center">Computer Science Senior | Data Science & AI Enthusiast | Software Developer</h3>
+<h3 align="center">Associate Data Science Engineer | Computer Science Engineering |</h3>
 <h4 align="center">Passionate about building intelligent systems, solving complex problems, and leveraging data-driven insights.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-cx-01&label=Profile%20views&color=0e75b6&style=flat" alt="deep-cx-01" /> </p>
 
 ## 👨‍💻 About Me  
 
-- 🚀 Exploring Agentic AI with LangChain, RAG, LangGraph, and MCP Servers — building context-aware, scalable, and interoperable LLM-driven applications.
-- 🤖 Exploring the fascinating world of **Generative AI**, understanding its principles, applications, and impact on modern technology.  
-- 🧠 Strong foundational knowledge in **Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems (OS), Computer Networks (CN), and Mathematics**.
-- 📊 Passionate about **Machine Learning & Deep Learning**, working with models to extract insights, automate tasks, and build intelligent applications.  
-- 🖼️ Experienced in **Computer Vision**, building models for **image classification, object detection, and image generation** using frameworks like **TensorFlow, Keras, and OpenCV**.  
-- 🔬 Hands-on experience in **Natural Language Processing (NLP)** with Hugging Face, fine-tuning transformer models for text classification and sentiment analysis.  
-
+- 💼 Associate Data Science Engineer working across Data Science,Open Source Models and MLOps.
+-  🎓 B.Tech Computer Science & Engineering, IIIT Una.
+- 🤖 Experienced with Machine Learning, Deep Learning, Generative AI, LLMs, RAG, and Agentic AI.
+- 🧠 Work with Open-Source Models, Fine-Tuning, Model Evaluation, and Inference Optimization.
+- ⚙️ Familiar with MLOps, Model Deployment, Model Serving, Ray, Docker, and scalable ML workflows.
+- 🚀 Build AI/ML applications using Python, PyTorch, Hugging Face, LangChain, LangGraph, FastAPI, and related tools.
+- 💻 Strong foundation in Data Structures & Algorithms, Software Engineering, SQL, DBMS, OS, and Computer Networks.
 
 ## 📞 Contact  
 
