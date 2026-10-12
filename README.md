@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola Amigo, I'm Deep</h1>
-<h3 align="center">Associate Data Science Engineer | Computer Science Engineering |</h3>
+<h3 align="center">Associate Data Science Engineer | Computer Science Engineering </h3>
 <h4 align="center">Passionate about building intelligent systems, solving complex problems, and leveraging data-driven insights.</h4>
 
 ## 👨‍💻 About Me  
