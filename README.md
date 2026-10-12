@@ -3,8 +3,6 @@
 <h3 align="center">Associate Data Science Engineer | Computer Science Engineering |</h3>
 <h4 align="center">Passionate about building intelligent systems, solving complex problems, and leveraging data-driven insights.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-cx-01&label=Profile%20views&color=0e75b6&style=flat" alt="deep-cx-01" /> </p>
-
 ## 👨‍💻 About Me  
 
 - 💼 Associate Data Science Engineer working across Data Science,Open Source Models and MLOps.
