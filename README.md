@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey👋🏻, I'm Deep</h1>
+<h1 align="center">Hola Amigo, I'm Deep</h1>
 <h3 align="center">Associate Data Science Engineer | Computer Science Engineering |</h3>
 <h4 align="center">Passionate about building intelligent systems, solving complex problems, and leveraging data-driven insights.</h4>
 
@@ -19,18 +19,11 @@
 
 <table>
   <tr>
-     <td>📧 <strong>er.deep.work@gmail.com/strong></td>
+     <td>📧 <strong>er.deep.work@gmail.com</strong></td>
     <td>📧 <strong>deepsethi00090@gmail.com</strong></td>
    
   </tr>
-  <tr>
-    <td>📞 <strong>+91 8168920736</strong></td>
-    <td>
-      <a href="https://linkedin.com/in/deep." target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" style="vertical-align: middle;" />
-      </a>
-    </td>
-  </tr>
+  
 </table>
 
 <h3 align="left">My CodeLine:</h3>
