@@ -13,15 +13,13 @@
 - 🚀 Build AI/ML applications using Python, PyTorch, Hugging Face, LangChain, LangGraph, FastAPI, and related tools.
 - 💻 Strong foundation in Data Structures & Algorithms, Software Engineering, SQL, DBMS, OS, and Computer Networks.
 
-## 📞 Contact  
+## 📞 Contact
 
 <table>
   <tr>
-     <td>📧 <strong>er.deep.work@gmail.com</strong></td>
-    <td>📧 <strong>deepsethi00090@gmail.com</strong></td>
-   
+    <td>📧 <a href="mailto:er.deep.work@gmail.com"><strong>er.deep.work@gmail.com</strong></a></td>
+    <td>📧 <a href="mailto:deepsethi00090@gmail.com"><strong>deepsethi00090@gmail.com</strong></a></td>
   </tr>
-  
 </table>
 
 <h3 align="left">My CodeLine:</h3>
